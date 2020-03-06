@@ -40,7 +40,9 @@
 */
 
 function showValues( obj ) {
-  //Code Here
+  for (const key in values){
+    return values[key]
+  }
 }
 
 
